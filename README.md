@@ -1,4 +1,4 @@
-# Android Testing: Unit Testing (UT) + Instrumental Testing (UI) 
+# Android Testing: Unit Testing + Instrumental Testing
 
 ### 🤍 Objectiu de l'activitat
 Partint de la base del repositori donat, completar l’aplicació d’Android per tal de que segueixi el patró MVVM i dissenyar tests de Unit Testing per a tots els mètodes del ViewModel i de Instrumental UI Testing per a tots els Composables de la MainView.
